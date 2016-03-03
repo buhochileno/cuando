@@ -1,0 +1,436 @@
+Launch Date,Name,Launch Site,Contractor,Class,Sub-type,Ejector,Mission Type,Mission Status,Functional Status,Launch Vehicle
+2/6/2000,PICOSAT 1&2 (TETHERED),AFWTR,Aerospace Corporation,mil,Opal,Opal,T,5,N,Minotaur-1
+2/10/2000,PICOSAT 3 (JAK),AFWTR,Santa Clara University,uni,Opal,Opal,E,2,N,Minotaur-1
+2/10/2000,PICOSAT 6 (StenSat),AFWTR,Stensat Group. LLC,civ,Opal,Opal,C,2,N,Minotaur-1
+2/12/2000,PICOSAT 4 (Thelma),AFWTR,Santa Clara University,uni,Opal,Opal,S,2,N,Minotaur-1
+2/12/2000,PICOSAT 5 (Louise),AFWTR,Santa Clara University,uni,Opal,Opal,S,2,N,Minotaur-1
+9/6/2001,PICOSAT 7&8 (TETHERED),AFWTR,Aerospace Corporation,mil,Opal,Opal,T,2,D,Minotaur-1
+12/2/2002,MEPSI,AFETR,Aerospace Corporation,mil,2U,SSPL,T,2,D,Shuttle
+6/30/2003,DTUSAT 1,PKMTR,Technical University of Denmark,uni,1U,PPOD,E,2,N,Rokot-KM
+6/30/2003,CUTE-1 (CO-55),PKMTR,Tokyo Institute of Technology,uni,1U,PPOD,E,3,N,Rokot-KM
+6/30/2003,QUAKESAT 1,PKMTR,Stanford University,uni,3U,PPOD,S,5,N,Rokot-KM
+6/30/2003,AAU CUBESAT 1,PKMTR,University of Aalborg,uni,1U,PPOD,E,2,N,Rokot-KM
+6/30/2003,CANX-1,PKMTR,UTIAS (University of Toronto),uni,1U,PPOD,E,2,N,Rokot-KM
+6/30/2003,CUBESAT XI-IV (CO-57),PKMTR,University of Tokyo,uni,1U,PPOD,E,4,S,Rokot-KM
+10/27/2005,UWE-1,PKMTR,University of Würzburg,uni,1U,TPOD,E,3,N,Kosmos-3M
+10/27/2005,CUBESAT XI-V (CO-58),PKMTR,University of Tokyo,uni,1U,TPOD,E,5,N,Kosmos-3M
+10/27/2005,Ncube 2,PKMTR,Norweigan Universities,uni,1U,TPOD,E,2,N,Kosmos-3M
+2/21/2006,CUTE 1.7,KSCUT,Tokyo Institute of Technology,uni,2U,JPOD,C,2,D,M-5 (2)
+7/26/2006,CP 1 (K7RR-Sat),TTMTR,Cal Poly,uni,1U,PPOD,E,1,D,Dnepr-1
+7/26/2006,CP 2,TTMTR,Cal Poly,uni,1U,PPOD,E,1,D,Dnepr-1
+7/26/2006,HAUSAT 1,TTMTR,Hankuk Aviation University,uni,1U,PPOD,E,1,D,Dnepr-1
+7/26/2006,ICECube 1,TTMTR,Cornell University,uni,1U,PPOD,S,1,D,Dnepr-1
+7/26/2006,ICECube 2,TTMTR,Cornell University,uni,1U,PPOD,S,1,D,Dnepr-1
+7/26/2006,ION,TTMTR,University of Illinois,uni,2U,PPOD,S,1,D,Dnepr-1
+7/26/2006,KUTESat Pathfinder,TTMTR,University of Kansas,uni,1U,PPOD,E,1,D,Dnepr-1
+7/26/2006,Mea Huaka'I (Voyager),TTMTR,University of Hawaii,uni,1U,PPOD,E,1,D,Dnepr-1
+7/26/2006,MEROPE,TTMTR,Montana State University,uni,1U,PPOD,S,1,D,Dnepr-1
+7/26/2006,Ncube 1,TTMTR,Norweigan Universities,uni,1U,PPOD,E,1,D,Dnepr-1
+7/26/2006,Rincon 1,TTMTR,University of Arizona,uni,1U,PPOD,E,1,D,Dnepr-1
+7/26/2006,SACRED,TTMTR,University of Arizona,uni,1U,PPOD,E,1,D,Dnepr-1
+7/26/2006,SEEDS,TTMTR,Nihon University,uni,1U,PPOD,E,1,D,Dnepr-1
+7/26/2006,AeroCube 1,TTMTR,Aerospace Corporation,mil,1U,PPOD,T,1,D,Dnepr-1
+9/22/2006,HITSAT (HO-59),KSCUT,Hokkaido Institute of Technology,uni,1U,JPOD,E,4,D,M-5 (2)
+12/16/2006,GENESAT (GeneSat 1),WLPIS,NASA Ames,civ,3U,PPOD,S,5,D,Minotaur-1
+12/20/2006,MEPSI (MEPSI 2A),AFETR,Aerospace Corporation,mil,2U,SSPL,T,5,D,Shuttle
+12/20/2006,RAFT (NO 60),AFETR,US Naval Academy,uni,1U,SSPL,C,5,D,Shuttle
+12/20/2006,MARSCOM,AFETR,US Naval Academy,uni,1U,SSPL,C,5,D,Shuttle
+4/17/2007,CSTB 1,TTMTR,Boeing,com,1U,PPOD,T,5,S,Dnepr-1
+4/17/2007,MAST,TTMTR,Tethers Unlimited. Inc.; Pumpkin. Inc. (bus),com,3U,PPOD,T,2,N,Dnepr-1
+4/17/2007,LIBERTAD 1,TTMTR,University of Sergio Arboleda,uni,1U,PPOD,E,2,N,Dnepr-1
+4/17/2007,CP3,TTMTR,Cal Poly,uni,1U,PPOD,E,2,S,Dnepr-1
+4/17/2007,CAPE 1,TTMTR,University of Louisiana,uni,1U,PPOD,E,3,N,Dnepr-1
+4/17/2007,CP4,TTMTR,Cal Poly,uni,1U,PPOD,E,3,N,Dnepr-1
+4/17/2007,AEROCUBE 2,TTMTR,Aerospace Corporation,com,1U,PPOD,T,2,N,Dnepr-1
+4/28/2008,COMPASS 1,SRI,Fachhochschule Aachen,uni,1U,XPOD,E,5,N,PSLV-CA
+4/28/2008,AAUSAT 2,SRI,University of Aalborg,uni,1U,XPOD,E,5,S,PSLV-CA
+4/28/2008,DELFI C3 (DO-64),SRI,Technical University of Delft,uni,3U,XPOD,T,5,A,PSLV-CA
+4/28/2008,CANX 2,SRI,UTIAS (University of Toronto),uni,3U,XPOD,T,5,A,PSLV-CA
+4/28/2008,SEEDS 2 (CO-66),SRI,Nihon University,uni,1U,XPOD,E,5,A,PSLV-CA
+8/2/2008,PreSat,KWAJ,NASA Ames,civ,3U,PPOD,T,1,A,Falcon-1
+8/2/2008,NanoSail D,KWAJ,NASA Ames,civ,3U,PPOD,T,1,A,Falcon-1
+11/15/2008,PSSC-Testbed 1,AFETR,Aerospace Corporation,mil,2U,SSPL,T,5,D,Shuttle
+1/23/2009,KKS-1 (KISEKI),TNSTA,Tokyo Metropolitan College of Industrial Technology,uni,1U,JPOD,T,3,S,H-2A-202
+5/19/2009,PHARMASAT,WLPIS,NASA Ames,civ,3U,PPOD,S,5,D,Minotaur-1
+5/19/2009,CP 6,WLPIS,Cal Poly,uni,1U,PPOD,E,4,D,Minotaur-1
+5/19/2009,HAWKSAT 1,WLPIS,Hawk Institute for Space Sciences,civ,1U,PPOD,S,2,D,Minotaur-1
+5/19/2009,AEROCUBE 3,WLPIS,Aerospace Corporation,mil,1U,PPOD,T,3,D,Minotaur-1
+7/15/2009,BEVO 1,AFETR,University of Texas,uni,1U,SSPL,T,2,D,Shuttle
+7/15/2009,DRAGONSAT 2 (AggieSat 2),AFETR,Texas A&M University,uni,1U,SSPL,T,4,D,Shuttle
+9/23/2009,SWISSCUBE (SwissCube 1),SRI,Ecole Polytechnique Fédérale de Lausanne,uni,1U,PSL,S,4,S,PSLV-CA
+9/23/2009,BEESAT,SRI,Technical University of Berlin,uni,1U,PSL,T,5,S,PSLV-CA
+9/23/2009,UWE-2,SRI,University of Würzburg,uni,1U,PSL,E,2,N,PSLV-CA
+9/23/2009,ITu-pSAT 1,SRI,Istanbul Technical University,uni,1U,PSL,E,2,S,PSLV-CA
+5/20/2010,HAYATO (K-SAT),TNSTA,Kagoshima University,uni,1U,JPOD,T,2,D,H-2A-202
+5/20/2010,WASEDA-SAT2,TNSTA,Waseda University,uni,1U,JPOD,E,2,D,H-2A-202
+5/20/2010,NEGAI-STAR (Negai-Boshi),TNSTA,Soka University,uni,1U,JPOD,E,5,D,H-2A-202
+7/12/2010,STUDSAT,SRI,Indian university consortium,uni,1U,XPOD,E,2,N,PSLV-CA
+7/12/2010,TISAT 1,SRI,Scuola universitaria della Svizzera italiana,uni,1U,XPOD,E,5,A,PSLV-CA
+11/20/2010,RAX 1 (USA 218),KODAK,University of Michigan,uni,3U,PPOD,S,4,N,Minotaur-4 HAPS
+11/20/2010,O/OREOS,KODAK,NASA Ames,civ,3U,PPOD,S,5,S,Minotaur-4 HAPS
+12/8/2010,QBX 2,AFETR,Naval Research Laboratory,mil,3U,PPOD,T,4,D,Falcon-9
+12/8/2010,SMDC-ONE 1,AFETR,MilTec,mil,3U,PPOD,T,5,D,Falcon-9
+12/8/2010,PERSEUS 003,AFETR,Los Alamos National Laboratory,mil,1.5U,PPOD,M,5,D,Falcon-9
+12/8/2010,PERSEUS 001,AFETR,Los Alamos National Laboratory,mil,1.5U,PPOD,M,5,D,Falcon-9
+12/8/2010,QBX 1,AFETR,Naval Research Laboratory,mil,3U,PPOD,T,5,D,Falcon-9
+12/8/2010,PERSEUS 002,AFETR,Los Alamos National Laboratory,mil,1.5U,PPOD,M,5,D,Falcon-9
+12/8/2010,PERSEUS 000,AFETR,Los Alamos National Laboratory,mil,1.5U,PPOD,M,5,D,Falcon-9
+12/8/2010,Mayflower-Caerus,AFETR,University of Southern California,uni,3U,PPOD,T,2,D,Falcon-9
+1/17/2011,NANOSAIL-D-002,KODAK,NASA Ames,civ,3U,PPOD,T,5,D,Minotaur-4 HAPS
+3/4/2011,E1P (Explorer 1 Prime),AFWTR,Montana State University,uni,1U,PPOD,S,1,A,Taurus-3110
+3/4/2011,KySat 1,AFWTR,Kentucky Space,uni,1U,PPOD,E,1,A,Taurus-3110
+3/4/2011,Hermes,AFWTR,Colorado Space Grant Consortium,uni,1U,PPOD,T,1,A,Taurus-3110
+7/20/2011,PSSC-2,AFETR,Aerospace Corporation,mil,2U,SSPL,T,5,D,Shuttle
+10/12/2011,JUGNU,SRI,Indian Institute of Technology Kanpur,uni,3U,JugPod,E,4,A,PSLV-CA
+10/28/2011,DICE 1 (DICE X),AFWTR,Utah State University,uni,1.5U,PPOD,S,5,A,Delta-7920-10C
+10/28/2011,DICE 2 (DICE Y),AFWTR,Utah State University,uni,1.5U,PPOD,S,5,A,Delta-7920-10C
+10/28/2011,RAX 2,AFWTR,University of Michigan,uni,3U,PPOD,S,5,N,Delta-7920-10C
+10/28/2011,AubieSat1 (AO-71),AFWTR,Auburn University,uni,1U,PPOD,S,3,S,Delta-7920-10C
+10/28/2011,M-Cubed (w/HRBE),AFWTR,Montana State University,uni,2U,PPOD,T,2,S,Delta-7920-10C
+10/28/2011,HRBE (Explorer-1 PRIME),AFWTR,University of Michigan,uni,1U,PPOD,S,4,A,Delta-7920-10C
+2/13/2012,e-st@r,FRGUI,Politecnico di Torino,uni,1U,PPOD,T,2,D,Vega
+2/13/2012,Goliat,FRGUI,University of Bucharest,uni,1U,PPOD,E,2,D,Vega
+2/13/2012,MaSat 1 (MO-72),FRGUI,Budapest University of Technology and Economics,uni,1U,PPOD,E,5,D,Vega
+2/13/2012,XaTcobeo,FRGUI,University of Vigo,uni,1U,PPOD,E,5,D,Vega
+2/13/2012,PW-Sat 1,FRGUI,Warsaw University of Technology,uni,1U,PPOD,T,2,D,Vega
+2/13/2012,ROBUSTA,FRGUI,University of Montpellier II,uni,1U,PPOD,T,2,D,Vega
+2/13/2012,UniCubeSat-GGs,FRGUI,University of Rome "La Sapienza",uni,1U,PPOD,T,2,D,Vega
+9/13/2012,SMDC ONE 1.2,AFWTR,MilTec,mil,3U,PPOD,C,5,A,Atlas-5(411)
+9/13/2012,Aeneas,AFWTR,University of Southern California,mil,3U,PPOD,C,3,A,Atlas-5(411)
+9/13/2012,CSSWE,AFWTR,Colorado LASP,uni,3U,PPOD,S,5,N,Atlas-5(411)
+9/13/2012,CXBN,AFWTR,Kentucky Space,uni,2U,PPOD,S,3,N,Atlas-5(411)
+9/13/2012,CP5,AFWTR,Cal Poly,uni,1U,PPOD,T,3,N,Atlas-5(411)
+9/13/2012,CINEMA 1,AFWTR,CINEMA consortium,civ,3U,PPOD,S,3,A,Atlas-5(411)
+9/13/2012,Re (STARE),AFWTR,Lawrence Livermore National Laboratory,civ,3U,PPOD,T,3,N,Atlas-5(411)
+9/13/2012,SMDC ONE 1.1,AFWTR,MilTec,mil,3U,PPOD,C,5,A,Atlas-5(411)
+9/13/2012,AeroCube 4.5A,AFWTR,Aerospace Corporation,mil,1U,PPOD,T,5,A,Atlas-5(411)
+9/13/2012,AeroCube 4.5B,AFWTR,Aerospace Corporation,mil,1U,PPOD,T,5,A,Atlas-5(411)
+9/13/2012,AeroCube 4.0,AFWTR,Aerospace Corporation,mil,1U,PPOD,T,5,N,Atlas-5(411)
+10/4/2012,Raiko,TNSTA,Tohoku University,uni,2U,J-SSOD,E,5,D,H-2B-304
+10/4/2012,FITSAT-1 (NIWAKA),TNSTA,Fukuoka Institute of Technology,uni,1U,J-SSOD,T,5,D,H-2B-304
+10/4/2012,TechEdSat,TNSTA,San Jose State University,uni,1U,J-SSOD,T,4,D,H-2B-304
+10/4/2012,F1,TNSTA,FPT Technology Research Institute,uni,1U,J-SSOD,E,2,D,H-2B-304
+10/4/2012,We Wish,TNSTA,Meisei Electric Co,com,1U,J-SSOD,E,2,D,H-2B-304
+2/25/2013,AAUSAT 3,SRI,University of Aalborg,uni,1U,XPOD,E,5,A,PSLV-CA
+2/25/2013,STRAND-1,SRI,University of Surrey,uni,3U,ISIPOD,T,4,A,PSLV-CA
+4/19/2013,OSSI 1,TTMTR,Hojun Song,com,1U,PPOD,E,2,D,Soyuz-2-1b
+4/19/2013,Dove 2,TTMTR,Planet Labs,com,3U,ISIPOD,E,5,N,Soyuz-2-1b
+4/19/2013,BeeSat 3,TTMTR,Technical University of Berlin,uni,1U,PSL,T,2,A,Soyuz-2-1b
+4/19/2013,SOMP,TTMTR,Technical University of Dresden,uni,1U,PSL,E,3,A,Soyuz-2-1b
+4/19/2013,BeeSat 2,TTMTR,Technical University of Berlin,uni,1U,PSL,T,4,A,Soyuz-2-1b
+4/21/2013,Dove 1,WLPIS,Planet Labs,com,3U,ISIPOD,T,5,D,Antares-110
+4/21/2013,Alexander (PhoneSat 1a),WLPIS,NASA Ames,civ,1U,ISIPOD,T,5,D,Antares-110
+4/21/2013,Bell (PhoneSat 1c),WLPIS,NASA Ames,civ,1U,ISIPOD,T,5,D,Antares-110
+4/21/2013,Graham (PhoneSat 1b),WLPIS,NASA Ames,civ,1U,ISIPOD,T,5,D,Antares-110
+4/26/2013,NEE 01 Pegaso,JSC,EXA,civ,1U,ISIPOD,T,4,N,Long March 2D
+4/26/2013,TURKSAT 3USAT,JSC,Istanbul Technical University,uni,3U,PPOD,C,3,N,Long March 2D
+4/26/2013,CubeBug-1,JSC,Ministry of Science Technology & Productive Innovation,civ,2U,PPOD,E,4,A,Long March 2D
+5/7/2013,ESTCube-1,FRGUI,University of Tartu,uni,1U,PPOD,T,4,N,Vega
+9/29/2013,POPACS 1/2/3,AFWTR,Utah State University,civ,3U,CSD,S,4,D,Falcon-9 v1.1
+11/19/2013,ArduSat 1,TNSTA,NanoSatisfi,com,1U,J-SSOD,E,3,D,HTV 4
+11/19/2013,PicoDragon,TNSTA,Vietnam National Satellite Center,civ,1U,J-SSOD,E,4,D,HTV 4
+11/19/2013,ArduSat X,TNSTA,NanoSatisfi,com,1U,J-SSOD,E,4,D,HTV 4
+11/20/2013,TechEdSat-3,TNSTA,San Jose State University,uni,3U,J-SSOD,T,4,D,HTV 4
+11/20/2013,FireFly,WLPIS,NASA Goddard,civ,3U,PPOD,S,4,A,Minotaur-1
+11/20/2013,ChargerSat,WLPIS,University of Alabama-Huntsville,uni,1U,PPOD,T,2,N,Minotaur-1
+11/20/2013,Prometheus 1.1,WLPIS,Los Alamos National Laboratory,mil,1.5U,PPOD,T,4,A,Minotaur-1
+11/20/2013,Lunar,WLPIS,Vermont Technical College,uni,1U,PPOD,T,4,A,Minotaur-1
+11/20/2013,Prometheus 2.1,WLPIS,Los Alamos National Laboratory,mil,1.5U,PPOD,T,4,A,Minotaur-1
+11/20/2013,PhoneSat 2.4,WLPIS,NASA Ames,civ,1U,PPOD,T,3,A,Minotaur-1
+11/20/2013,CAPE 2,WLPIS,University of Louisiana,uni,1U,PPOD,E,4,D,Minotaur-1
+11/20/2013,DragonSat,WLPIS,Drexel University,uni,1U,PPOD,T,2,N,Minotaur-1
+11/20/2013,KYSat II,WLPIS,Kentucky Space,uni,1U,PPOD,T,4,N,Minotaur-1
+11/20/2013,TJSat,WLPIS,Thomas Jefferson High School,uni,1U,PPOD,E,2,D,Minotaur-1
+11/20/2013,ORSES,WLPIS,MilTec,mil,3U,PPOD,T,4,A,Minotaur-1
+11/20/2013,ORS Tech 1,WLPIS,Johns Hopkins APL,mil,3U,PPOD,T,4,D,Minotaur-1
+11/20/2013,SENSE SV1,WLPIS,Boeing,mil,3U,PPOD,T,4,D,Minotaur-1
+11/20/2013,NPS-SCAT,WLPIS,Naval Postgraduate School,uni,1U,PPOD,T,3,A,Minotaur-1
+11/20/2013,Prometheus 2.2,WLPIS,Los Alamos National Laboratory,mil,1.5U,PPOD,T,4,A,Minotaur-1
+11/20/2013,Prometheus 1.2,WLPIS,Los Alamos National Laboratory,mil,1.5U,PPOD,T,4,D,Minotaur-1
+11/20/2013,SENSE SV2,WLPIS,Boeing,mil,3U,PPOD,T,4,A,Minotaur-1
+11/20/2013,Prometheus 3.1,WLPIS,Los Alamos National Laboratory,mil,1.5U,PPOD,T,4,A,Minotaur-1
+11/20/2013,Prometheus 3.2,WLPIS,Los Alamos National Laboratory,mil,1.5U,PPOD,T,4,D,Minotaur-1
+11/20/2013,COPPER,WLPIS,Saint Louis University,uni,1U,PPOD,T,2,N,Minotaur-1
+11/20/2013,ORS Tech 2,WLPIS,Johns Hopkins APL,mil,3U,PPOD,T,4,D,Minotaur-1
+11/20/2013,Horus,WLPIS,Lawrence Livermore National Laboratory,mil,3U,PPOD,T,2,N,Minotaur-1
+11/20/2013,Black Knight,WLPIS,US Military Academy,uni,1U,PPOD,E,2,D,Minotaur-1
+11/20/2013,Prometheus 4.1,WLPIS,Los Alamos National Laboratory,mil,1.5U,PPOD,T,4,A,Minotaur-1
+11/20/2013,SPA-1 Trailblazer,WLPIS,COSMIAC,uni,1U,PPOD,T,2,N,Minotaur-1
+11/20/2013,Prometheus 4.2,WLPIS,Los Alamos National Laboratory,mil,1.5U,PPOD,T,4,A,Minotaur-1
+11/20/2013,SwampSat,WLPIS,University of Florida,uni,1U,PPOD,E,2,N,Minotaur-1
+11/20/2013,Ho'oponopono-2,WLPIS,University of Hawaii,uni,3U,PPOD,C,2,N,Minotaur-1
+11/21/2013,CubeBug 2 (Manolito),TTMTR,Ministry of Science Technology & Productive Innovation,civ,2U,ISIPOD,E,4,A,Dnepr-1
+11/21/2013,NEE 02 Krysaor,TTMTR,EXA,civ,1U,ISIPOD,T,4,A,Dnepr-1
+11/21/2013,PUCP-SAT 1,TTMTR,Pontifical Catholic University of Peru,uni,1U,PEPPOD,E,3,S,Dnepr-1
+11/21/2013,FUNcube 1,TTMTR,Amsat-UK,civ,1U,ISIPOD,E,4,A,Dnepr-1
+11/21/2013,HiNCube,TTMTR,Narvik University College,uni,1U,ISIPOD,E,2,N,Dnepr-1
+11/21/2013,UWE 3,TTMTR,University of Würzburg,uni,1U,ISIPOD,E,4,A,Dnepr-1
+11/21/2013,ZACUBE 1,TTMTR,Cape Peninsula University of Technology,uni,1U,ISIPOD,C,4,A,Dnepr-1
+11/21/2013,OPTOS,TTMTR,INTA,civ,3U,ISIPOD,T,3,N,Dnepr-1
+11/21/2013,Dove 4 (0712),TTMTR,Planet Labs,com,3U,PEPPOD,T,1,A,Dnepr-1
+11/21/2013,CINEMA 2 (KHUSat-1),TTMTR,KyungHeeUniversity,civ,3U,ISIPOD,S,2,N,Dnepr-1
+11/21/2013,CINEMA 3 (KHUSat-2),TTMTR,KyungHeeUniversity,civ,3U,ISIPOD,S,2,N,Dnepr-1
+11/21/2013,Triton 1,TTMTR,ISIS-BV,com,3U,ISIPOD,C,3,N,Dnepr-1
+11/21/2013,Delfi-n3Xt,TTMTR,Technical University of Delft,uni,3U,ISIPOD,T,4,N,Dnepr-1
+11/21/2013,Dove 3 0711,TTMTR,Planet Labs,com,3U,ISIPOD,T,4,A,Dnepr-1
+11/21/2013,GATOSS (GOMX 1),TTMTR,GOMSpace,com,2U,XPOD,E,4,A,Dnepr-1
+11/21/2013,ICube 1,TTMTR,Institute of Space Technology Islamabad,uni,1U,PEPPOD,E,2,N,Dnepr-1
+11/21/2013,HumSat-D,TTMTR,University of Vigo,uni,1U,PEPPOD,C,4,A,Dnepr-1
+11/21/2013,VELOX-P 2,TTMTR,Nanyang Technological University,uni,1U,ISIPOD,E,4,N,Dnepr-1
+11/21/2013,First-MOVE,TTMTR,Technical University of Munich,uni,1U,ISIPOD,T,3,N,Dnepr-1
+12/6/2013,FIREBIRD 1,AFWTR,Montana State University,uni,1.5U,PPOD,S,4,A,Atlas-501
+12/6/2013,FIREBIRD 2,AFWTR,Montana State University,uni,1.5U,PPOD,S,4,A,Atlas-501
+12/6/2013,Aero-Cube 5a,AFWTR,Aerospace Corporation,mil,1U,PPOD,T,4,A,Atlas-501
+12/6/2013,Aero-Cube 5b,AFWTR,Aerospace Corporation,mil,1U,PPOD,T,4,A,Atlas-501
+12/6/2013,ALICE,AFWTR,Air Force Institute of Technology,mil,3U,PPOD,T,4,A,Atlas-501
+12/6/2013,SNAP 3,AFWTR,Naval Postgraduate School,mil,1U,PPOD,T,4,A,Atlas-501
+12/6/2013,M-Cubed-2,AFWTR,University of Michigan,uni,1U,PPOD,T,4,N,Atlas-501
+12/6/2013,CUNYSat-1,AFWTR,City University of New York,uni,1U,PPOD,E,2,N,Atlas-501
+12/6/2013,IPEX,AFWTR,Cal Poly,civ,3U,PPOD,T,4,A,Atlas-501
+12/6/2013,SMDC-ONE 2.4,AFWTR,MilTec,mil,3U,PPOD,T,4,A,Atlas-501
+12/6/2013,TacSat-6,AFWTR,AFRL,mil,3U,PPOD,T,4,A,Atlas-501
+12/6/2013,SMDC-ONE 2.3,AFWTR,MilTec,mil,3U,PPOD,T,4,A,Atlas-501
+2/11/2014,Flock-1 03,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/11/2014,Flock-1 04,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/11/2014,Flock-1 01,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/11/2014,Flock-1 02,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/12/2014,Flock-1 05,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/12/2014,Flock-1 06,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/13/2014,Flock-1 11,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/13/2014,Flock-1 12,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/14/2014,Flock-1 13,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/14/2014,Flock-1 15,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/14/2014,Flock-1 16,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/14/2014,Flock-1 14,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/15/2014,Flock-1 07,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/15/2014,Flock-1 09,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/15/2014,Flock-1 10,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/15/2014,Flock-1 08,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/25/2014,Flock-1 17,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/25/2014,Flock-1 18,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/26/2014,Flock-1 21,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/26/2014,Flock-1 22,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/26/2014,Flock-1 19,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/26/2014,Flock-1 20,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/27/2014,Flock-1 25,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/27/2014,Flock-1 23,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/27/2014,Flock-1 26,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/27/2014,Flock-1 24,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/27/2014,IFT 1 (Yui),TNSTA,University of Tsukuba,uni,1U,JPOD,E,2,D,H-2A-202
+2/27/2014,OPUSAT (CosMoz),TNSTA,Osaka Prefecture University,uni,1U,JPOD,T,3,D,H-2A-202
+2/27/2014,INVADER (CO-77),TNSTA,Tama Art University,uni,1U,JPOD,E,5,D,H-2A-202
+2/27/2014,KSAT 2 (Hayato 2),TNSTA,Kagoshima University,uni,1U,JPOD,T,3,D,H-2A-202
+2/28/2014,Ardusat 2,WLPIS,NanoSatisfi,com,2U,NRCSD,E,2,D,Antares
+2/28/2014,UAPSat,WLPIS,Pontifical Catholic University of Peru,uni,1U,NRCSD,E,2,D,Antares
+2/28/2014,SkyCube,WLPIS,Southern Stars Group LLC,com,1U,NRCSD,I,2,D,Antares
+2/28/2014,LitSat 1,WLPIS,Kaunas University of Technology,uni,1U,NRCSD,E,5,D,Antares
+2/28/2014,LituanicaSAT 1,WLPIS,Kaunas University of Technology,uni,1U,NRCSD,E,4,D,Antares
+2/28/2014,Flock-1 27,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+2/28/2014,Flock-1 28,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares
+4/18/2014,SporeSat,AFETR,NASA Ames,civ,3U,PPOD,S,5,D,Falcon-9 v1.1
+4/18/2014,TSAT (TestSat-Lite),AFETR,Taylor University,uni,2U,PPOD,T,4,D,Falcon-9 v1.1
+4/18/2014,ALL-STAR/THEIA,AFETR,Colorado Space Grant Consortium,uni,3U,PPOD,S,2,D,Falcon-9 v1.1
+4/18/2014,PhoneSat 2.5,AFETR,NASA Ames,civ,1U,PPOD,T,5,D,Falcon-9 v1.1
+4/18/2014,KickSat 1,AFETR,Cornell University,uni,3U,PPOD,T,3,D,Falcon-9 v1.1
+6/19/2014,ANTELSAT,TTMTR,Facultad de Ingeniería de la Universidad de la República,uni,2U,PPOD,E,4,A,Dnepr
+6/19/2014,Flock-1c 09 090B,TTMTR,Planet Labs,com,3U,ISIPOD,I,4,A,Dnepr
+6/19/2014,Flock-1c 06 0908,TTMTR,Planet Labs,com,3U,ISIPOD,I,4,A,Dnepr
+6/19/2014,Perseus-M 2,TTMTR,Dauria Aerospace,com,6U,???,C,4,A,Dnepr
+6/19/2014,Flock-1c 05 0907,TTMTR,Planet Labs,com,3U,ISIPOD,I,4,A,Dnepr
+6/19/2014,Perseus-M 1,TTMTR,Dauria Aerospace,com,6U,???,C,4,A,Dnepr
+6/19/2014,Flock-1c 08 090A,TTMTR,Planet Labs,com,3U,ISIPOD,I,4,A,Dnepr
+6/19/2014,Flock-1c 03 0905,TTMTR,Planet Labs,com,3U,ISIPOD,I,4,A,Dnepr
+6/19/2014,PolyITAN 1,TTMTR,National Technical University of Ukraine,uni,1U,ISIPOD,E,4,A,Dnepr
+6/19/2014,Tigrisat,TTMTR,La Sapienza University of Rome,uni,3U,PEPPOD,S,4,A,Dnepr
+6/19/2014,Lemur 1,TTMTR,NanoSatisfi,com,3U,PPOD,T,?,A,Dnepr
+6/19/2014,AeroCube 6A,TTMTR,Aerospace Corporation,mil,0.5U,PPOD,S,4,A,Dnepr
+6/19/2014,AeroCube 6B,TTMTR,Aerospace Corporation,mil,0.5U,PPOD,S,4,A,Dnepr
+6/19/2014,Duchifat 1,TTMTR,Space Lab Herzliya Science Center,uni,1U,ISIPOD,E,4,A,Dnepr
+6/19/2014,PACE,TTMTR,National Cheng Kung University,uni,2U,ISIPOD,E,2,N,Dnepr
+6/19/2014,Flock-1c 10 090C,TTMTR,Planet Labs,com,3U,ISIPOD,I,4,A,Dnepr
+6/19/2014,NanoSatC-Br 1,TTMTR,INPE Southern Regional Space Research Center,civ,1U,ISIPOD,S,3,N,Dnepr
+6/19/2014,QB50P1 (EO-79),TTMTR,von Karman Institute,com,2U,ISIPOD,T,4,A,Dnepr
+6/19/2014,Flock-1c 07 0909,TTMTR,Planet Labs,com,3U,ISIPOD,I,4,A,Dnepr
+6/19/2014,Flock-1c 01 0903,TTMTR,Planet Labs,com,3U,ISIPOD,I,4,A,Dnepr
+6/19/2014,POPSAT-HIP,TTMTR,Microspace Rapid Pte Ltd,com,3U,ISIPOD,T,4,A,Dnepr
+6/19/2014,Flock-1c 02 0904,TTMTR,Planet Labs,com,3U,ISIPOD,I,4,A,Dnepr
+6/19/2014,DTUSat 2,TTMTR,Danmarks Tekniske Universitet,uni,1U,ISIPOD,S,2,N,Dnepr
+6/19/2014,Flock-1c 04 0906,TTMTR,Planet Labs,com,3U,ISIPOD,I,4,A,Dnepr
+6/19/2014,QB50P2 (EO-80),TTMTR,von Karman Institute,com,2U,ISIPOD,T,4,A,Dnepr
+6/19/2014,Flock-1c 11 090D,TTMTR,Planet Labs,com,3U,ISIPOD,I,4,A,Dnepr
+6/30/2014,VELOX I-NSAT,SRI,Nanyang Technological University,uni,3U,ISIPOD,T,3,A,PSLV-CA
+7/8/2014,UKube 1,TTMTR,ClydeSpace,civ,3U,ISIPOD,T,5,N,Soyuz-2-1b
+8/19/2014,Chasqui 1,TTMTR,Universidad Nacional de Ingeniería del Perú,uni,1U,Hand,E,2,D,Progress-M 22M
+8/19/2014,Flock-1b 24,WLPIS,Planet Labs,com,3U,NRCSD,I,4,D,Antares-120
+8/19/2014,Flock-1b 23,WLPIS,Planet Labs,com,3U,NRCSD,I,4,D,Antares-120
+8/20/2014,Flock-1b 26,WLPIS,Planet Labs,com,3U,NRCSD,I,4,D,Antares-120
+8/20/2014,Flock-1b 25,WLPIS,Planet Labs,com,3U,NRCSD,I,4,D,Antares-120
+8/20/2014,Flock-1b 15,WLPIS,Planet Labs,com,3U,NRCSD,I,4,D,Antares-120
+8/20/2014,Flock-1b 16,WLPIS,Planet Labs,com,3U,NRCSD,I,4,D,Antares-120
+8/21/2014,Flock-1b 01,WLPIS,Planet Labs,com,3U,NRCSD,I,4,D,Antares-120
+8/21/2014,Flock-1b 02,WLPIS,Planet Labs,com,3U,NRCSD,I,4,D,Antares-120
+8/23/2014,Flock-1b 07,WLPIS,Planet Labs,com,3U,NRCSD,I,4,D,Antares-120
+8/23/2014,Flock-1b 08,WLPIS,Planet Labs,com,3U,NRCSD,I,4,D,Antares-120
+9/1/2014,Flock-1b 13,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares-120
+9/1/2014,Flock-1b 14,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares-120
+9/1/2014,Flock-1b 19,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares-120
+9/1/2014,Flock-1b 20,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares-120
+9/1/2014,Flock-1b 03,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares-120
+9/1/2014,Flock-1b 04,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares-120
+9/5/2014,Flock-1b 18,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares-120
+9/5/2014,Flock-1b 17,WLPIS,Planet Labs,com,3U,NRCSD,I,5,D,Antares-120
+10/28/2014,Arkyd-3,WLPIS,Planetary Resources Inc.,com,3U,NRCSD,T,1,D,Antares-120
+10/28/2014,Flock-1d 01,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 02,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 03,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 04,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 05,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 06,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 07,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 08,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 09,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 10,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 11,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 12,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 13,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 14,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 15,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 16,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 17,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 18,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 19,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 20,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 21,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 22,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 23,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 24,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 25,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,Flock-1d 26,WLPIS,Planet Labs,com,3U,NRCSD,I,1,D,Antares
+10/28/2014,RACE,WLPIS,University of Texas,uni,3U,NRCSD,T,1,D,Antares
+10/28/2014,GOMX 2,WLPIS,GOMSpace,com,2U,NRCSD,T,1,D,Antares
+1/31/2015,FIREBIRD-IIA,AFWTR,Montana State University,uni,1.5U,PPOD,S,4,A,Delta-7320
+1/31/2015,FIREBIRD-IIB,AFWTR,Montana State University,uni,1.5U,PPOD,S,4,A,Delta-7320
+1/31/2015,GRIFEX,AFWTR,NASA JPL,civ,3U,PPOD,T,4,A,Delta-7320
+1/31/2015,EXOCUBE (CP10),AFWTR,Cal Poly,uni,3U,PPOD,S,3,A,Delta-7320
+2/5/2015,AESP-14,AFETR,Aeronautics Technological Institute,civ,1U,J-SSOD,T,2,D,Falcon-9
+2/27/2015,Flock-1b 27 0823,AFETR,Planet Labs,com,3U,NRCSD,I,4,A,Antares-120
+2/27/2015,Flock-1b 28 081B,AFETR,Planet Labs,com,3U,NRCSD,I,4,D,Antares-120
+3/2/2015,Flock-1b 21 0817,AFETR,Planet Labs,com,3U,NRCSD,I,4,A,Antares-120
+3/2/2015,Flock-1b 22 081F,AFETR,Planet Labs,com,3U,NRCSD,I,4,D,Antares-120
+3/2/2015,Flock-1b 09,AFETR,Planet Labs,com,3U,NRCSD,I,4,D,Antares-120
+3/2/2015,Flock-1b 10 081C,AFETR,Planet Labs,com,3U,NRCSD,I,4,D,Antares-120
+3/3/2015,Flock-1d' 01 0A16,AFETR,Planet Labs,com,3U,NRCSD,I,4,A,Falcon-9
+3/3/2015,Flock-1d' 02 0C02,AFETR,Planet Labs,com,3U,NRCSD,I,4,A,Falcon-9
+3/3/2015,Flock-1b 05 0822,AFETR,Planet Labs,com,3U,NRCSD,I,4,D,Antares-120
+3/3/2015,Flock-1b 06 0901,AFETR,Planet Labs,com,3U,NRCSD,I,4,A,Antares-120
+3/4/2015,TechEdSat 4 (TES 4),AFETR,San Jose State University,uni,3U,NRCSD,T,2,D,Antares-120
+3/4/2015,GEARRSAT,AFETR,NearSpace Launch,com,3U,NRCSD,T,2,A,Antares-120
+3/4/2015,MicroMAS,AFETR,MIT,uni,3U,NRCSD,S,2,D,Antares-120
+3/4/2015,Lambdasat,AFETR,Greek Silicon Valley folks,uni,1U,NRCSD,T,3,D,Antares-120
+3/5/2015,Flock-1b 11 0815,AFETR,Planet Labs,com,3U,NRCSD,I,4,D,Antares-120
+3/5/2015,Flock-1b 12 0824,AFETR,Planet Labs,com,3U,NRCSD,I,4,D,Antares-120
+5/20/2015,USS Langley,AFETR,US Naval Academy,uni,3U,PPOD,T,2,A,Atlas-5 (501)
+5/20/2015,OptiCube 1,AFETR,Cal Poly,uni,3U,PPOD,T,?,A,Atlas-5 (501)
+5/20/2015,PSat A,AFETR,NearSpace Launch,mil,3U,PPOD,T,4,A,Atlas-5 (501)
+5/20/2015,BRICSat-P,AFETR,US Naval Academy,mil,1.5U,PPOD,T,3,A,Atlas-5 (501)
+5/20/2015,OptiCube 2,AFETR,Cal Poly,uni,3U,PPOD,T,?,A,Atlas-5 (501)
+5/20/2015,GEARRS 2,AFETR,NearSpace Launch,mil,3U,PPOD,T,?,A,Atlas-5 (501)
+5/20/2015,OptiCube 3,AFETR,Cal Poly,uni,3U,PPOD,T,?,A,Atlas-5 (501)
+5/20/2015,AeroCube 8A,AFETR,Aerospace Corporation,mil,1.5U,PPOD,T,?,A,Atlas-5 (501)
+5/20/2015,AeroCube 8B,AFETR,Aerospace Corporation,mil,1.5U,PPOD,T,?,A,Atlas-5 (501)
+5/20/2015,LightSail A,AFETR,Planetary Society,com,3U,PPOD,T,5,D,Atlas-5 (501)
+6/28/2015,Flock-1f 01,AFETR,Planet Labs,com,3U,NRCSD,I,1,D,Falcon-9 v1.1
+6/28/2015,Flock-1f 02,AFETR,Planet Labs,com,3U,NRCSD,I,1,D,Falcon-9 v1.1
+6/28/2015,Flock-1f 03,AFETR,Planet Labs,com,3U,NRCSD,I,1,D,Falcon-9 v1.1
+6/28/2015,Flock-1f 04,AFETR,Planet Labs,com,3U,NRCSD,I,1,D,Falcon-9 v1.1
+6/28/2015,Flock-1f 05,AFETR,Planet Labs,com,3U,NRCSD,I,1,D,Falcon-9 v1.1
+6/28/2015,Flock-1f 06,AFETR,Planet Labs,com,3U,NRCSD,I,1,D,Falcon-9 v1.1
+6/28/2015,Flock-1f 07,AFETR,Planet Labs,com,3U,NRCSD,I,1,D,Falcon-9 v1.1
+6/28/2015,Flock-1f 08,AFETR,Planet Labs,com,3U,NRCSD,I,1,D,Falcon-9 v1.1
+7/10/2015,DeorbitSail,SRI,University of Surrey,com,3U,,T,0,A,PSLV-XL
+7/14/2015,Flock-1e 02 0B10,AFETR,Planet Labs,com,3U,NRCSD,I,1,A,Falcon-9
+7/14/2015,Flock-1e 01 0B1A,AFETR,Planet Labs,com,3U,NRCSD,I,1,A,Falcon-9
+7/14/2015,Flock-1e 04 0C06,AFETR,Planet Labs,com,3U,NRCSD,I,1,A,Falcon-9
+7/14/2015,Flock-1e 03 0C03,AFETR,Planet Labs,com,3U,NRCSD,I,1,A,Falcon-9
+7/17/2015,Flock-1e 07 0B0E,AFETR,Planet Labs,com,3U,NRCSD,I,1,A,Falcon-9
+7/17/2015,Flock-1e 08 0B0D,AFETR,Planet Labs,com,3U,NRCSD,I,1,A,Falcon-9
+7/17/2015,Flock-1e 05 0B07,AFETR,Planet Labs,com,3U,NRCSD,I,1,A,Falcon-9
+7/17/2015,Flock-1e 06 0B0B,AFETR,Planet Labs,com,3U,NRCSD,I,1,A,Falcon-9
+7/17/2015,Flock-1e 09 0B1F,AFETR,Planet Labs,com,3U,NRCSD,I,1,A,Falcon-9
+7/17/2015,Flock-1e 10 0B09,AFETR,Planet Labs,com,3U,NRCSD,I,1,A,Falcon-9
+7/17/2015,Flock-1e 11 0B1E,AFETR,Planet Labs,com,3U,NRCSD,I,1,A,Falcon-9
+7/17/2015,Flock-1e 12 0B0A,AFETR,Planet Labs,com,3U,NRCSD,I,1,A,Falcon-9
+7/17/2015,Flock-1e 13 0C07,AFETR,Planet Labs,com,3U,NRCSD,I,1,A,Falcon-9
+7/17/2015,Flock-1e 14 0B0F,AFETR,Planet Labs,com,3U,NRCSD,I,1,A,Falcon-9
+7/17/2015,Centennial-1,AFETR,Booz Allen Hamilton,civ,1U,NRCSD,T,1,A,Falcon-9
+7/17/2015,Arkyd-3 Reflight,AFETR,Planetary Resources Inc.,com,3U,NRCSD,T,0,A,Falcon-9
+9/17/2015,SERPENS,TNSTA,SERPENS,uni,3U,JSSOD,T,2,A,H-2A
+9/17/2015,S-CUBE,TNSTA,Tohoku University,uni,3U,JSSOD,T,2,A,H-2A
+9/19/2015,DCBB (CAS 3G),TSC,Shenzhen Aerospace Dongfanghong HIT Satellite Ltd.,com,2U,,C,?,A,Long March 6
+9/25/2015,NJFA (TW 1C),JSC,Shanghai Engineering Center for Microsatellites,com,3U,PSL,T,?,A,Long March 11
+9/25/2015,NJUST 2 (TW 1B),JSC,Nanjing University,uni,2U,PSL,T,?,A,Long March 11
+9/25/2015,Shankeda 2 (TW 1A),JSC,Shanghai Engineering Center for Microsatellites,com,2U,PSL,T,?,A,Long March 11
+9/28/2015,Lemur 2 Joel,SRI,Spire,com,3U,,I,?,A,PSLV-XL
+9/28/2015,Lemur 2 Peter,SRI,Spire,com,3U,,I,?,A,PSLV-XL
+9/28/2015,Lemur 2 Jeroen,SRI,Spire,com,3U,,I,?,A,PSLV-XL
+9/28/2015,Lemur 2 Chris,SRI,Spire,com,3U,,I,?,A,PSLV-XL
+10/5/2015,GOMX-3 ,TNSTA,GOMSpace,com,3U,JSSOD,T,?,A,H-2B-304
+10/5/2015,AAUSAT-5 ,TNSTA,Aalborg University,uni,3U,JSSOD,C,?,A,H-2B-304
+10/6/2015,Flock-2b 01 (0C70),AFETR,Planet Labs,com,3U,NRCSD,I,0,A,Falcon-9
+10/6/2015,Flock-2b 02 (0c18),AFETR,Planet Labs,com,3U,NRCSD,I,0,A,Falcon-9
+10/6/2015,Flock-2b 03 (0C53),AFETR,Planet Labs,com,3U,NRCSD,I,0,A,Falcon-9
+10/6/2015,Flock-2b 04 (0C72),AFETR,Planet Labs,com,3U,NRCSD,I,0,A,Falcon-9
+10/6/2015,Flock-2b 05 (0C73),AFETR,Planet Labs,com,3U,NRCSD,I,0,A,Falcon-9
+10/6/2015,Flock-2b 06 (0C69),AFETR,Planet Labs,com,3U,NRCSD,I,0,A,Falcon-9
+10/6/2015,Flock-2b 07 (0C66),AFETR,Planet Labs,com,3U,NRCSD,I,0,A,Falcon-9
+10/6/2015,Flock-2b 08 (0C55),AFETR,Planet Labs,com,3U,NRCSD,I,0,A,Falcon-9
+10/6/2015,Flock-2b 10 (0C64),AFETR,Planet Labs,com,3U,NRCSD,I,0,A,Falcon-9
+10/6/2015,Flock-2b 09 (0C68),AFETR,Planet Labs,com,3U,NRCSD,I,0,A,Falcon-9
+10/8/2015,Aerocube 5c ,AFWTR,Aerospace Corporation,mil,1.5U,P-POD,T,?,A,Atlas-5(401)
+10/8/2015,Aerocube 7 (OCSD-A),AFWTR,Aerospace Corporation,mil,1.5U,P-POD,T,3,A,Atlas-5(401)
+10/8/2015,Fox 1A (AO-85),AFWTR,AMSAT,com,1U,P-POD,C,4,A,Atlas-5(401)
+10/8/2015,BisonSat ,AFWTR,Salish Kootenai College,uni,1U,P-POD,E,?,A,Atlas-5(401)
+10/8/2015,ARC-1 ,AFWTR,University of Alaska Fairbanks,uni,1U,P-POD,E,?,A,Atlas-5(401)
+10/8/2015,SNAP-3 ALICE ,AFWTR,,mil,3U,P-POD,C,?,A,Atlas-5(401)
+10/8/2015,LMRST ,AFWTR,NASA JPL,civ,3U,P-POD,T,?,A,Atlas-5(401)
+10/8/2015,SNAP-3 EDDIE ,AFWTR,,mil,3U,P-POD,C,?,A,Atlas-5(401)
+10/8/2015,PropCube Merryweather ,AFWTR,Naval Postgraduate School,uni,1U,P-POD,S,?,A,Atlas-5(401)
+10/8/2015,SINOD-D-1 ,AFWTR,Tyvak,com,3U,P-POD,T,?,A,Atlas-5(401)
+10/8/2015,SNAP-3 JIMI ,AFWTR,,mil,3U,P-POD,C,?,A,Atlas-5(401)
+10/8/2015,PropCube Flora ,AFWTR,Naval Postgraduate School,uni,1U,P-POD,S,?,A,Atlas-5(401)
+10/8/2015,SINOD-D-3 ,AFWTR,Tyvak,com,3U,P-POD,T,?,A,Atlas-5(401)
+10/8/2015,GRACE ,AFWTR,,mil,3U,P-POD,C,?,A,Atlas-5(401)
+10/9/2015,Flock-2b 13 (0C74),AFETR,Planet Labs,com,3U,NRCSD,I,0,A,Falcon-9
+10/9/2015,Flock-2b 14 (0C47),AFETR,Planet Labs,com,3U,NRCSD,I,0,A,Falcon-9
+11/3/2015,Argus,KAUAI,Saint Louis University,uni,2U,NLAS,S,1,A,SPARK
+11/3/2015,PrintSat,KAUAI,Montana State University,uni,1U,NLAS,T,1,A,SPARK
+11/3/2015,EDSN 1,KAUAI,NASA Ames,civ,1.5U,NLAS,T,1,A,SPARK
+11/3/2015,EDSN 2,KAUAI,NASA Ames,civ,1.5U,NLAS,T,1,A,SPARK
+11/3/2015,EDSN 3,KAUAI,NASA Ames,civ,1.5U,NLAS,T,1,A,SPARK
+11/3/2015,EDSN 4,KAUAI,NASA Ames,civ,1.5U,NLAS,T,1,A,SPARK
+11/3/2015,EDSN 5,KAUAI,NASA Ames,civ,1.5U,NLAS,T,1,A,SPARK
+11/3/2015,EDSN 6,KAUAI,NASA Ames,civ,1.5U,NLAS,T,1,A,SPARK
+11/3/2015,EDSN 7,KAUAI,NASA Ames,civ,1.5U,NLAS,T,1,A,SPARK
+11/3/2015,EDSN 8,KAUAI,NASA Ames,civ,1.5U,NLAS,T,1,A,SPARK
+11/3/2015,Supernova-Beta,KAUAI,Pumpkin,com,6U,CSD,I,1,A,SPARK
+11/3/2015,STACEM,KAUAI,Space Dynamics Laboratory,civ,3U,NLAS,I,1,A,SPARK
+10/8/2015,Flock-2b 11 (0C71),AFETR,Planet Labs,com,3U,NRCSD,I,1,A,Falcon-9
+10/8/2015,Flock-2b 12 (0C51),AFETR,Planet Labs,com,3U,NRCSD,I,1,A,Falcon-9
+12/6/2015,Bevo 2,AFETR,Texas A&M University,uni,3U,,T,1,,Atlas-5(401)
+12/6/2015,MinXSS,AFETR,University of Colorado Boulder,uni,3U,NRCSD,S,1,,Atlas-5(401)
+12/6/2015,CADRE,AFETR,University of Michigan,uni,3U,NRCSD,T,1,,Atlas-5(401)
+12/6/2015,STMSat 1,AFETR,St. Thomas More Cathedral School,uni,1U,NRCSD,E,1,,Atlas-5(401)
+12/6/2015,Nodes 1,AFETR,NASA Ames,civ,1.5U,NRCSD,T,1,,Atlas-5(401)
+12/6/2015,Nodes 2,AFETR,NASA Ames,civ,1.5U,NRCSD,T,1,,Atlas-5(401)
+12/6/2015,Flock 2e 1,AFETR,Planet Labs,com,3U,NRCSD,I,1,,Atlas-5(401)
+12/6/2015,Flock 2e 2,AFETR,Planet Labs,com,3U,NRCSD,I,1,,Atlas-5(401)
+12/6/2015,Flock 2e 3,AFETR,Planet Labs,com,3U,NRCSD,I,1,,Atlas-5(401)
+12/6/2015,Flock 2e 4,AFETR,Planet Labs,com,3U,NRCSD,I,1,,Atlas-5(401)
+12/6/2015,Flock 2e 5,AFETR,Planet Labs,com,3U,NRCSD,I,1,,Atlas-5(401)
+12/6/2015,Flock 2e 6,AFETR,Planet Labs,com,3U,NRCSD,I,1,,Atlas-5(401)
+12/6/2015,Flock 2e 7,AFETR,Planet Labs,com,3U,NRCSD,I,1,,Atlas-5(401)
+12/6/2015,Flock 2e 8,AFETR,Planet Labs,com,3U,NRCSD,I,1,,Atlas-5(401)
+12/6/2015,Flock 2e 9,AFETR,Planet Labs,com,3U,NRCSD,I,1,,Atlas-5(401)
+12/6/2015,Flock 2e 10,AFETR,Planet Labs,com,3U,NRCSD,I,1,,Atlas-5(401)
+12/6/2015,Flock 2e 11,AFETR,Planet Labs,com,3U,NRCSD,I,1,,Atlas-5(401)
+12/6/2015,Flock 2e 12,AFETR,Planet Labs,com,3U,NRCSD,I,1,,Atlas-5(401)
