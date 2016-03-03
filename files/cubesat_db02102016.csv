@@ -1,3 +1,4 @@
+nro,launchDate,name,contractor,class,subType,ejector,missionType,missionStatus,functionalStatus,launchVehicle
 1,2/6/2000,PICOSAT 1&2 (TETHERED),Aerospace Corporation,mil,Opal,Opal,T,5,N,Minotaur-1
 2,2/10/2000,PICOSAT 6 (StenSat),Stensat Group. LLC,civ,Opal,Opal,C,2,N,Minotaur-1
 3,2/10/2000,PICOSAT 3 (JAK),Santa Clara University,uni,Opal,Opal,E,2,N,Minotaur-1
